@@ -22,10 +22,10 @@ const AddUserForm = props =>
 			}}
 		>
 			<label>Name</label>
-			<input type="text" name="name" value={user.name} onChange={handleInputChange} />
+			<input type="text" className="input is-primary" name="name" value={user.name} onChange={handleInputChange} />
 			<label>Username</label>
-			<input type="text" name="username" value={user.username} onChange={handleInputChange} />
-			<button className="btn btn-primary">Add new user</button>
+			<input className="input is-primary" type="text" name="username" value={user.username} onChange={handleInputChange} />
+			<button className="button is-success">Add new user</button>
 		</form>
 	)
 }

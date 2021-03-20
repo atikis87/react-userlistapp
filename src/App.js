@@ -79,10 +79,10 @@ const App = () =>
   //----------------------------------------------
 
 	return (
-		<div className="my-container">
-			<h1>UserList Application with CRUD</h1>
-			<div className="my-row">
-				<div className="flex">
+		<div className="container is-max-desktop">
+			<h1 className="titleFont">UserList Application with CRUD</h1>
+			<div className="columns">
+				<div className="column is-half">
 					{editing ? (
 						<Fragment>
 							<h2>Edit This User</h2>
@@ -100,8 +100,8 @@ const App = () =>
 						</Fragment>
 					)}
 				</div>
-				<div className="flex">
-					<h2>View users</h2>
+				<div className="column is-two-third">
+					<h2>View Added Users</h2>
 					<Table users={users} editRow={editRow} deleteUser={deleteUser} />
 				</div>
 			</div>

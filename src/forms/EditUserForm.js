@@ -26,11 +26,11 @@ const EditUserForm = props => {
       }}
     >
       <label>Name</label>
-      <input type="text" name="name" value={user.name} onChange={handleInputChange} />
+      <input className="input is-link" type="text" name="name" value={user.name} onChange={handleInputChange} />
       <label>Username</label>
-      <input type="text" name="username" value={user.username} onChange={handleInputChange} />
-      <button className="btn btn-success">Update user</button>
-      <button onClick={() => props.setEditing(false)} className="btn btn-warning">
+      <input className="input is-link" type="text" name="username" value={user.username} onChange={handleInputChange} />
+      <button className="button is-link">Update User</button>
+      <button onClick={() => props.setEditing(false)} className="button is-dark">
         Cancel
       </button>
     </form>

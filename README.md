@@ -1,6 +1,6 @@
 # React UserList Application with CRUD
 
-I created a simple react application that can add, update, or delete users. I also used a bootstrap for a nicer look 
+I created a simple react application that can add, update, or delete users. I also used a Bulma.js for a nice look.
 
 ## Author
 
