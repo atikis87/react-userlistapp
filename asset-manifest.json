@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/react-userlistapp/static/css/main.ded31086.chunk.css",
-    "main.js": "/react-userlistapp/static/js/main.28225a23.chunk.js",
-    "main.js.map": "/react-userlistapp/static/js/main.28225a23.chunk.js.map",
+    "main.css": "/react-userlistapp/static/css/main.aafff671.chunk.css",
+    "main.js": "/react-userlistapp/static/js/main.0e9fb288.chunk.js",
+    "main.js.map": "/react-userlistapp/static/js/main.0e9fb288.chunk.js.map",
     "runtime-main.js": "/react-userlistapp/static/js/runtime-main.6728f05f.js",
     "runtime-main.js.map": "/react-userlistapp/static/js/runtime-main.6728f05f.js.map",
     "static/js/2.64eeaeca.chunk.js": "/react-userlistapp/static/js/2.64eeaeca.chunk.js",
     "static/js/2.64eeaeca.chunk.js.map": "/react-userlistapp/static/js/2.64eeaeca.chunk.js.map",
     "index.html": "/react-userlistapp/index.html",
-    "static/css/main.ded31086.chunk.css.map": "/react-userlistapp/static/css/main.ded31086.chunk.css.map",
-    "static/js/2.64eeaeca.chunk.js.LICENSE.txt": "/react-userlistapp/static/js/2.64eeaeca.chunk.js.LICENSE.txt"
+    "static/css/main.aafff671.chunk.css.map": "/react-userlistapp/static/css/main.aafff671.chunk.css.map",
+    "static/js/2.64eeaeca.chunk.js.LICENSE.txt": "/react-userlistapp/static/js/2.64eeaeca.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-userlistapp/static/media/Background.85fd9f7b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6728f05f.js",
     "static/js/2.64eeaeca.chunk.js",
-    "static/css/main.ded31086.chunk.css",
-    "static/js/main.28225a23.chunk.js"
+    "static/css/main.aafff671.chunk.css",
+    "static/js/main.0e9fb288.chunk.js"
   ]
 }
